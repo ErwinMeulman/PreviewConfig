@@ -1,2 +1,3 @@
 # PreviewConfig
-PreviewConfig.png
+
+![Screenshot](https://raw.githubusercontent.com/ErwinMeulman/PreviewConfig/master/PreviewConfig.png)
